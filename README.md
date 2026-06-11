@@ -46,5 +46,5 @@ L'installation est entièrement modulaire et s'exécute selon une logique séque
 Pour déployer l'environnement complet, clonez ce dépôt ou téléchargez le script, puis exécutez les commandes suivantes dans votre terminal :
 
 ```bash
-chmod +x install-htpc-souverain.sh
-./install-htpc-souverain.sh
+chmod +x [nom_du_fichier].sh
+./[nom_du_fichier].sh
